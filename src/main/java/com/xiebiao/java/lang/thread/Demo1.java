@@ -6,7 +6,7 @@ package com.xiebiao.java.lang.thread;
  * @author bjxieb
  * @date 2019-02-18
  **/
-public class ExecuteSequnce {
+public class Demo1 {
 
     static Thread A = new Thread(new Runnable() {
         @Override
